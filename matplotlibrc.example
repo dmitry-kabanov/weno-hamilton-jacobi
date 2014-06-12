@@ -1,0 +1,21 @@
+#text.usetex : True
+
+lines.linewidth: 2
+lines.markersize: 5
+
+axes.labelsize: 14
+legend.fontsize: 14
+xtick.labelsize: 14
+ytick.labelsize: 14
+
+font.family: sans-serif
+font.sans-serif: Helvetica Neue
+font.size: 14.0
+
+figure.figsize: 5.0, 7.5
+
+savefig.format: pdf
+savefig.bbox: tight
+
+# Embed fonts into a PDF file.
+pdf.fonttype: 42
